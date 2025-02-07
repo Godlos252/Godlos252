@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godlos252
+- 👋 Hi, I’m Sinethemba Godlo
 - 👀 I’m interested in IT Applications and Business Processes
 - 🌱 I’m currently learning ProstGrad in ICT
 - 💞️ I’m looking to collaborate on developing an IT Application to help with inventory management for SMMEs
